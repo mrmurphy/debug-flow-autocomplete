@@ -10,7 +10,7 @@ echo ""
 
 echo ""
 echo "----"
-echo "Checking for autocompletion at position 9,5 of foo.js. Should show option 'fwump'."
+echo "Checking for autocompletion at position 9,6 of foo.js. Should show option 'fwump'."
 echo "RESULT: `FLOW autocomplete --json 9 6 < foo_for_autocomplete_whum_9_6`"
 echo "----"
 echo ""
