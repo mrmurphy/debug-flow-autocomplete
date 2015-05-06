@@ -1,3 +1,7 @@
+# Running the test script
+
+Just run `./run.sh` on a linux/unix system!
+
 # Debuggery
 
 # bar.js
