@@ -16,4 +16,3 @@ Running on OS X 10.10.2
 
 Flow version: 0.10.0
 
-Autocomplete plugin: ide-flow
